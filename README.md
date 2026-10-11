@@ -61,3 +61,10 @@ I wanted a developer tool small enough that the network and comparison logic sta
 ---
 
 <div align="center"><sub>YukiShinobi // build the tool you wish you had while debugging.</sub></div>
+
+
+## Scope and maintenance — October 2026
+
+A network-debugging tool. Probe only endpoints you own or are authorised to test; redact credentials and sensitive response data.
+
+This repository is separate from the current featured products: [Project Creation](https://github.com/YukiShinobi/project-creation), [Veyra](https://github.com/YukiShinobi/YukiShinobi-veyra), and [Simply Management](https://github.com/YukiShinobi/SIMPLYMANAGEMENT-WEBSITE). Its README does not constitute verification of a live production deployment.
